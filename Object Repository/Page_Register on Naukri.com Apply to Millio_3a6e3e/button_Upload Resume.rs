@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Upload Resume</name>
+   <tag></tag>
+   <elementGuidId>abf9c344-e38b-4d3f-9cf6-a9554e6821a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.uploadResume.resman-btn-primary.resman-btn-small</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cc1b82cb-d5b9-4754-a9da-049e4c2aab82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>uploadResume resman-btn-primary resman-btn-small</value>
+      <webElementGuid>227df085-3ac6-4124-b4d3-5efde9f94915</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>24401ed7-95ae-421c-ba9c-aa0156363e36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upload Resume</value>
+      <webElementGuid>3cd142e6-5ad3-4950-8141-5a945b2f594d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;right-container&quot;]/div[@class=&quot;right-pane&quot;]/div[@class=&quot;registerWrapper&quot;]/div[@class=&quot;formWrapper&quot;]/form[@class=&quot;formTag&quot;]/div[@class=&quot;formElems&quot;]/div[@class=&quot;resume-upload-container Narrow_Widget&quot;]/div[@class=&quot;resume-upload&quot;]/div[1]/button[@class=&quot;uploadResume resman-btn-primary resman-btn-small&quot;]</value>
+      <webElementGuid>3b04fa16-fc96-4883-a389-65be51e9a1a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>b6dc5ac0-e9c2-4a63-8c9c-1efc03049f00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div/form/div[2]/div[5]/div/div/button</value>
+      <webElementGuid>674d7357-9787-4931-a0bb-bbf7cd3ce9dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resume'])[1]/following::button[1]</value>
+      <webElementGuid>5c1d6eba-ac15-469d-85b5-6b87daef148d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('I', &quot;'&quot;, 'm a fresher')])[1]/following::button[1]</value>
+      <webElementGuid>05cbc982-4708-4f4e-900a-59b113e05dd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recruiters give first preference to candidates who have a resume'])[1]/preceding::button[1]</value>
+      <webElementGuid>44ef24a5-51bd-46d5-bebf-6b774a31001f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Upload Resume']/parent::*</value>
+      <webElementGuid>5ed1e577-dc18-4065-8ffc-abad5a0e1fae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/button</value>
+      <webElementGuid>9030ff82-690c-42b0-86ef-1b2698a20ed8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Upload Resume' or . = 'Upload Resume')]</value>
+      <webElementGuid>7f39d6a6-021d-4287-96a8-da48da7d58a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

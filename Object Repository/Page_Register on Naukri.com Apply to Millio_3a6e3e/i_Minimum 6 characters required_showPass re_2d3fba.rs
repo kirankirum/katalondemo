@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Minimum 6 characters required_showPass re_2d3fba</name>
+   <tag></tag>
+   <elementGuidId>8a78bd7b-87f5-4197-be9f-1e8b2c19d21a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.showPass.resman-icon.resman-icon-eye-closed.resman-pos-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div/form/div[2]/div[2]/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>48002232-b7d3-4aed-85e5-fc10a51a433e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>showPass resman-icon resman-icon-eye-closed resman-pos-right</value>
+      <webElementGuid>2478330d-d3ec-4dfb-ba03-05244fdff9b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;right-container&quot;]/div[@class=&quot;right-pane&quot;]/div[@class=&quot;registerWrapper&quot;]/div[@class=&quot;formWrapper&quot;]/form[@class=&quot;formTag&quot;]/div[@class=&quot;formElems&quot;]/div[@class=&quot;formField&quot;]/button[@class=&quot;eye-button resman-btn-empty resman-btn-small&quot;]/i[@class=&quot;showPass resman-icon resman-icon-eye-closed resman-pos-right&quot;]</value>
+      <webElementGuid>b671eab2-d1f4-4cb4-b182-fabc1c622145</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div/form/div[2]/div[2]/button/i</value>
+      <webElementGuid>fd8da6a5-a938-4c7e-a320-2b3151910b6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>7cb8af62-3bb9-42bb-9280-bd8ec7b2f4e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

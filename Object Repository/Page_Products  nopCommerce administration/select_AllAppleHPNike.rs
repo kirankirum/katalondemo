@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_AllAppleHPNike</name>
+   <tag></tag>
+   <elementGuidId>298d03f4-2bb2-44a6-aee0-6610e6b9ebda</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='SearchManufacturerId']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#SearchManufacturerId</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>972b59e1-bbb5-43e8-bb42-aaa8d9d03ee9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>566ce6ff-dd86-475e-9108-ac35047d8ffd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>68815bca-0664-46ba-9ab4-cd1040ca7928</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-required</name>
+      <type>Main</type>
+      <value>The Manufacturer field is required.</value>
+      <webElementGuid>1181d5e4-b8a2-4402-b6aa-a0bbd4424378</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>SearchManufacturerId</value>
+      <webElementGuid>b96bb7dd-f760-4421-9f9f-46ca3f130280</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>SearchManufacturerId</value>
+      <webElementGuid>f51a1f42-27ef-4e07-a9fa-9a1c509c41c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All
+Apple
+HP
+Nike
+</value>
+      <webElementGuid>d6dfbc36-0819-42d2-bdd2-263a24b273cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SearchManufacturerId&quot;)</value>
+      <webElementGuid>8f09880f-d644-478e-b708-932ea88f18c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='SearchManufacturerId']</value>
+      <webElementGuid>96d36a34-44b8-433e-984e-43a5e79eed95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manufacturer'])[1]/following::select[1]</value>
+      <webElementGuid>f00bb231-7993-467c-b18a-aac52462c52a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search subcategories'])[1]/following::select[1]</value>
+      <webElementGuid>9d625cd4-a09f-45f1-b332-d23c29d762c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vendor'])[1]/preceding::select[1]</value>
+      <webElementGuid>1f21b825-9a28-43e6-9369-7ee98eb593be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Store'])[1]/preceding::select[2]</value>
+      <webElementGuid>9c43343e-e054-40be-83c4-2ef2536be2e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/select</value>
+      <webElementGuid>594ea578-aa9c-4755-972a-f386717e427c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'SearchManufacturerId' and @name = 'SearchManufacturerId' and (text() = 'All
+Apple
+HP
+Nike
+' or . = 'All
+Apple
+HP
+Nike
+')]</value>
+      <webElementGuid>6410c110-5b5e-4e66-8bc9-0cc7ae29a243</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

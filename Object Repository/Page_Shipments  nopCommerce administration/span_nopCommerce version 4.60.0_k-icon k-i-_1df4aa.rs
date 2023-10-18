@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_nopCommerce version 4.60.0_k-icon k-i-_1df4aa</name>
+   <tag></tag>
+   <elementGuidId>648a624c-7fe3-4b6a-8f8d-94d05bd0d4ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='00c55a1c-1749-4a0e-8d9f-d22105ffa66a']/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-icon.k-i-arrow-60-left</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c697e809-c554-4bda-b8ab-19f1a818cf23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-icon k-i-arrow-60-left</value>
+      <webElementGuid>f56c3675-2c7a-4cfa-a728-03f1204aa833</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;00c55a1c-1749-4a0e-8d9f-d22105ffa66a&quot;)/div[@class=&quot;k-header&quot;]/a[@class=&quot;k-link k-nav-prev k-state-hover&quot;]/span[@class=&quot;k-icon k-i-arrow-60-left&quot;]</value>
+      <webElementGuid>1ad664ed-ea1d-4e12-9c9b-f60fc568d1ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='00c55a1c-1749-4a0e-8d9f-d22105ffa66a']/div/a/span</value>
+      <webElementGuid>ec76ebf7-3a43-4588-afc4-0d60b6a9d532</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>693d88d5-bb8f-40b9-9324-c7b80a73df62</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

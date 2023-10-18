@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Im experienced  I have work experience (excluding internships)</name>
+   <tag></tag>
+   <elementGuidId>71a119de-5ec2-49ea-8255-1d239fe636ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div/form/div[2]/div[4]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d554afba-0892-4a91-989d-7c0cfabf3570</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>focusable optionWrap  </value>
+      <webElementGuid>fae4b00f-e9cd-4a00-957d-f4d27ada464d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>560ef2f3-c9bd-46ed-9496-9cacb548135d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>exp</value>
+      <webElementGuid>14f2b149-1902-4173-8991-b45a48ba4319</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I'm experienced  I have work experience (excluding internships)</value>
+      <webElementGuid>0e70c22d-959f-4548-a82f-544d72bb4f33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;right-container&quot;]/div[@class=&quot;right-pane&quot;]/div[@class=&quot;registerWrapper&quot;]/div[@class=&quot;formWrapper&quot;]/form[@class=&quot;formTag&quot;]/div[@class=&quot;formElems&quot;]/div[@class=&quot;formField userType&quot;]/div[@class=&quot;radioWrap&quot;]/div[@class=&quot;focusable optionWrap&quot;]</value>
+      <webElementGuid>151beb5d-ffdc-4a0b-ac08-8336b5873882</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div/form/div[2]/div[4]/div[2]/div</value>
+      <webElementGuid>b35caf73-fd22-4b5a-85a0-dcf83a5506c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Work status'])[1]/following::div[4]</value>
+      <webElementGuid>5e8d67f7-ee0b-40fd-9b8c-5693be2cdff1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recruiters will call you on this number'])[1]/following::div[6]</value>
+      <webElementGuid>d4a35fcd-8c10-4602-a652-913d0ecbbb1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('I', &quot;'&quot;, 'm a fresher')])[1]/preceding::div[4]</value>
+      <webElementGuid>4314f562-6f48-493a-9e6a-6ed677e4a056</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div</value>
+      <webElementGuid>c4abb64b-aa4f-4abf-a1f8-d73c5baf919b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;I&quot; , &quot;'&quot; , &quot;m experienced  I have work experience (excluding internships)&quot;) or . = concat(&quot;I&quot; , &quot;'&quot; , &quot;m experienced  I have work experience (excluding internships)&quot;))]</value>
+      <webElementGuid>34d1ecad-91bd-434e-8561-1ef3d8d0f7cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

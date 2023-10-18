@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_AllSimpleGrouped (product with variants)</name>
+   <tag></tag>
+   <elementGuidId>3a0a8cb4-5ea5-42e5-a060-190f2873e32e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='SearchProductTypeId']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#SearchProductTypeId</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>7df0d793-cae6-4fe6-a0ae-c113bcd553bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>2343f215-9334-4590-ab2e-eb214184553a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>084327a0-91ba-47f9-947c-38ca2869be20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-required</name>
+      <type>Main</type>
+      <value>The Product type field is required.</value>
+      <webElementGuid>4471c270-e5d0-463b-bcba-9e7e0c6cdd45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>SearchProductTypeId</value>
+      <webElementGuid>ed4b77d1-e265-4d41-9a6f-f73a40512d2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>SearchProductTypeId</value>
+      <webElementGuid>68e8ed8c-a833-47b9-9dea-f2a4e85c8291</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All
+Simple
+Grouped (product with variants)
+</value>
+      <webElementGuid>46ce1d57-b562-4dde-8f8e-f80cf99d4d91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SearchProductTypeId&quot;)</value>
+      <webElementGuid>83d322ac-9a96-4996-bfbb-71ed54d0f254</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='SearchProductTypeId']</value>
+      <webElementGuid>d17ab327-65f0-4723-b7ff-dc3127170ea3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product type'])[1]/following::select[1]</value>
+      <webElementGuid>eb245656-7a95-4ee7-b3f2-cb274289d481</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warehouse'])[1]/following::select[2]</value>
+      <webElementGuid>3d9eba19-d503-43b8-8396-4a1fbf8ac9c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Published'])[1]/preceding::select[1]</value>
+      <webElementGuid>1986c42d-f8c3-4f42-a0ea-3642dc8e419d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go directly to product SKU'])[1]/preceding::select[2]</value>
+      <webElementGuid>e54ba7df-cd45-4e2a-894c-cc6e3f2d8492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/select</value>
+      <webElementGuid>dbbcba46-f65d-4f4f-a2ce-48dd6509ddc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'SearchProductTypeId' and @name = 'SearchProductTypeId' and (text() = 'All
+Simple
+Grouped (product with variants)
+' or . = 'All
+Simple
+Grouped (product with variants)
+')]</value>
+      <webElementGuid>5eb17eeb-f0e7-45a0-9d54-7ca7667565ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
