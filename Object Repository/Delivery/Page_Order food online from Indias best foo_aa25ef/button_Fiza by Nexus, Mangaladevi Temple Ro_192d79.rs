@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Fiza by Nexus, Mangaladevi Temple Ro_192d79</name>
+   <tag></tag>
+   <elementGuidId>7b0b2a92-0832-4fb7-a9c9-ab67bfa933fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div[2]/div/div[2]/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button._3lmRa._2At8F</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b58455d1-e512-4365-964d-1de8d14eface</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_3lmRa _2At8F</value>
+      <webElementGuid>aefe4173-847f-4115-861e-5f0fd9dfbdad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>7b56f4aa-b4ad-4c80-8b92-85b6840bc2dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fiza by Nexus, Mangaladevi Temple Road, Pandeshwar, Mangaluru, Karnataka, India</value>
+      <webElementGuid>fa0a7cb2-7272-4f9b-a485-bab7fc804c4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;_3arMG&quot;]/div[@class=&quot;nDVxx&quot;]/div[@class=&quot;_1MdYR&quot;]/div[@class=&quot;_1TWur&quot;]/div[@class=&quot;_2COmU&quot;]/div[@class=&quot;m3-34&quot;]/div[@class=&quot;_3mZgT&quot;]/div[@class=&quot;Al5GE&quot;]/div[@class=&quot;_1oLDb&quot;]/button[@class=&quot;_3lmRa _2At8F&quot;]</value>
+      <webElementGuid>457bba5c-b8a9-4d8a-bf54-c3fddf058daa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div[2]/div/div[2]/button[2]</value>
+      <webElementGuid>05c1ed30-b47d-4466-a069-d59b1f6221bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fizza Family Restaurant, FIZZA EVENTS &amp; CATERS, Rd, Killy, Kattakkada, Kerala, India'])[1]/following::button[1]</value>
+      <webElementGuid>daf5bef5-9323-42e8-a508-6baccbeb89a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/following::button[2]</value>
+      <webElementGuid>508c833a-330b-46bc-9977-418e8be80355</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fizza Restaurant, Junction, Althara Nagar, Edapazhanji, Thiruvananthapuram, Kerala, India'])[1]/preceding::button[1]</value>
+      <webElementGuid>654ce8c9-4e34-4d6e-979c-ac5aef9f2bf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>47f3fff8-abf8-49ba-9946-6857967b769c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Fiza by Nexus, Mangaladevi Temple Road, Pandeshwar, Mangaluru, Karnataka, India' or . = 'Fiza by Nexus, Mangaladevi Temple Road, Pandeshwar, Mangaluru, Karnataka, India')]</value>
+      <webElementGuid>084deb69-f9d2-4300-9b26-d9acf1858ddb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

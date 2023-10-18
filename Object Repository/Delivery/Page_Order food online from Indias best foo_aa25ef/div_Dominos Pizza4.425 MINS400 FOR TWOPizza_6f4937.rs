@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Dominos Pizza4.425 MINS400 FOR TWOPizza_6f4937</name>
+   <tag></tag>
+   <elementGuidId>760bedf9-2f43-452c-925d-a6414fd69b97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div[3]/div/div/a/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.styles_containerRestaurant__3vhx3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5909cc37-6730-4a17-9252-51e1ff7abc8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>29d86609-dcfd-47d6-8bea-0efdc82858dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_containerRestaurant__3vhx3</value>
+      <webElementGuid>71cc93cb-bd96-4c20-a29b-9427ec65fcda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Domino's Pizza4.425 MINS₹400 FOR TWOPizzas, Italian, Pastas, Desserts</value>
+      <webElementGuid>a168629a-e468-4215-9f39-06c33afe88c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;_3arMG&quot;]/div[@class=&quot;nDVxx&quot;]/div[@class=&quot;_2NSqs&quot;]/div[@class=&quot;_3X3Bt _13h-R&quot;]/div[@class=&quot;Search_wrapper__lQvnw _3_gGY _1eKQe&quot;]/div[@class=&quot;Search_widgetsV2__27BBR Search_widgets__3o_bA&quot;]/div[@class=&quot;styles_container__zEwGm&quot;]/div[@class=&quot;styles_restaurantListItem__1lOsF&quot;]/a[@class=&quot;styles_container__fLC0R&quot;]/div[@class=&quot;styles_containerRestaurant__3vhx3&quot;]</value>
+      <webElementGuid>351057b7-c46b-48e4-b35a-fc1c7b6388c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div[3]/div/div/a/div[2]</value>
+      <webElementGuid>764072d2-9a54-404f-bd79-80085b7f0997</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='• ABOVE ₹999 •'])[1]/following::div[1]</value>
+      <webElementGuid>fea31d74-c9c8-4f82-9532-46a12309cd47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹100 OFF'])[1]/following::div[2]</value>
+      <webElementGuid>027cc413-99f8-4ba8-b48d-7dd4af2de99f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div[2]</value>
+      <webElementGuid>d9e85f17-8613-4b8b-9f89-94407ad32a81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Domino&quot; , &quot;'&quot; , &quot;s Pizza4.425 MINS₹400 FOR TWOPizzas, Italian, Pastas, Desserts&quot;) or . = concat(&quot;Domino&quot; , &quot;'&quot; , &quot;s Pizza4.425 MINS₹400 FOR TWOPizzas, Italian, Pastas, Desserts&quot;))]</value>
+      <webElementGuid>b2b2d3a6-dc0c-4976-9b1a-b411db979ca7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

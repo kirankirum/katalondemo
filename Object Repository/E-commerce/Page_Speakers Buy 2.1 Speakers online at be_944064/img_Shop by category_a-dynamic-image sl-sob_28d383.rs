@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Shop by category_a-dynamic-image sl-sob_28d383</name>
+   <tag></tag>
+   <elementGuidId>9934b60f-114e-4cd7-a4a5-29323a4b9724</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='sobe_d_b_13_1']/a/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#sobe_d_b_13_1 > a.sl-sobe-carousel-sub-card-link > div.sl-sobe-carousel-sub-card-image > img.a-dynamic-image.sl-sobe-carousel-sub-card-img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>75910ba2-d139-420d-8694-e294b7bc539a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Bluetooth speaker</value>
+      <webElementGuid>29f9e8c0-9195-40a5-8486-62b0cff95612</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://m.media-amazon.com/images/G/31/img23/CEPC/jupiter2023/event/speakers/shopbycat/Bluetooth_speaker_Shop_by_Category_400x400._CB576824004_.jpg</value>
+      <webElementGuid>0c1825fd-aa26-4bac-b53e-8363135f00bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-dynamic-image sl-sobe-carousel-sub-card-img</value>
+      <webElementGuid>b21565e9-fab1-4dfb-bbed-87b5131f8e7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-a-dynamic-image</name>
+      <type>Main</type>
+      <value>{}</value>
+      <webElementGuid>7e3958c7-bd0a-4798-9c83-4933a2024aab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sobe_d_b_13_1&quot;)/a[@class=&quot;sl-sobe-carousel-sub-card-link&quot;]/div[@class=&quot;sl-sobe-carousel-sub-card-image&quot;]/img[@class=&quot;a-dynamic-image sl-sobe-carousel-sub-card-img&quot;]</value>
+      <webElementGuid>1f305d5c-9fe3-4c94-8fd4-10299d0c56e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='sobe_d_b_13_1']/a/div/img</value>
+      <webElementGuid>3e0b4ed7-100b-4001-937f-8eac0ce0b0d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Bluetooth speaker']</value>
+      <webElementGuid>ac704800-76a2-4272-993d-ab96e826a9e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/ol/li/a/div/img</value>
+      <webElementGuid>feb173aa-4a34-41a9-b238-2bfa46b3ac7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Bluetooth speaker' and @src = 'https://m.media-amazon.com/images/G/31/img23/CEPC/jupiter2023/event/speakers/shopbycat/Bluetooth_speaker_Shop_by_Category_400x400._CB576824004_.jpg']</value>
+      <webElementGuid>00789730-2d7e-4c87-8ff2-62243bb66948</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

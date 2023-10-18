@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_View Cart</name>
+   <tag></tag>
+   <elementGuidId>ba9df04f-263e-42e8-bb5a-498dad8e08aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='view-cart-btn']/span/span[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.styles_viewCart__32FxP > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>68db69a7-6647-4a67-952e-cea44634da2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View Cart</value>
+      <webElementGuid>5780beb7-d789-4a54-a702-b03ea97615aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;view-cart-btn&quot;)/span[@class=&quot;styles_content__ImcAX&quot;]/span[@class=&quot;styles_viewCart__32FxP&quot;]/span[1]</value>
+      <webElementGuid>134053ee-754c-43e3-8810-71f3e0606920</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='view-cart-btn']/span/span[2]/span</value>
+      <webElementGuid>2e3f1d8f-27db-4a05-b99f-de2f5478c4c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FLAT100 Coupon Unlocked! Use it to save ₹100'])[1]/following::span[6]</value>
+      <webElementGuid>28eff668-7ab3-4af6-ae6f-8fd0082d6262</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Browse Menu'])[1]/following::span[7]</value>
+      <webElementGuid>880089d5-c770-43cd-acad-b4b19ee260d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View Cart']/parent::*</value>
+      <webElementGuid>f56e1070-c1e5-4323-a808-924023721b00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/span</value>
+      <webElementGuid>91d86528-f913-4ef4-8d5d-7781857790ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'View Cart' or . = 'View Cart')]</value>
+      <webElementGuid>1ca961af-ed5b-4ec3-a642-1c67b5ab302d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

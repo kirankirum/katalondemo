@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Terms of Use</name>
+   <tag></tag>
+   <elementGuidId>79acacf7-6eef-4ec6-82d2-fd906c53de67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[3]/div[2]/div/div[2]/div/div[2]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.O1vpu</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9c2a5d56-d2d8-4c78-b749-876646e25775</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>O1vpu</value>
+      <webElementGuid>fe437244-c26f-40b3-938d-b494ede5ba1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Terms of Use</value>
+      <webElementGuid>1e3dafd3-bd5d-46b2-b0bc-a2808cc096c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;_3arMG&quot;]/div[@class=&quot;nDVxx&quot;]/div[@class=&quot;_1w2w1&quot;]/div[@class=&quot;_3tDvm&quot;]/div[@class=&quot;_2QhOV _3glSS&quot;]/div[@class=&quot;_3R9IF&quot;]/div[@class=&quot;-zxNr&quot;]/div[1]/div[2]/div[@class=&quot;_3rl8Q&quot;]/button[@class=&quot;O1vpu&quot;]</value>
+      <webElementGuid>6cc1a0ee-c5c2-4651-80fe-379a4385d99d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[3]/div[2]/div/div[2]/div/div[2]/div/button</value>
+      <webElementGuid>901e0aae-d260-44cf-93db-53769968e8b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQs'])[1]/following::button[1]</value>
+      <webElementGuid>7622a5b0-3628-43de-994c-20d250f3312e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/preceding::button[1]</value>
+      <webElementGuid>05fb48f2-a6f8-47f8-a807-0f62103d8cf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>19e2c17d-8ae5-4179-b3c6-9949d4d2d6bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Terms of Use' or . = 'Terms of Use')]</value>
+      <webElementGuid>43e6e612-d36b-41d8-bc99-09f4b6c9589c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Web Series</name>
+   <tag></tag>
+   <elementGuidId>51833823-e646-4778-b201-77c7c87b8869</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/nav/div[2]/a[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a7474889-d577-48b9-9be2-7ed32369f5e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> AppNavbar_navItem___QI5L</value>
+      <webElementGuid>bf6f2f58-30ac-41f4-9f8a-584a5d57570e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>appnavbar_menuitem_webseries</value>
+      <webElementGuid>7c80ef2f-19c3-412a-977c-79566c10767b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Web Series</value>
+      <webElementGuid>46f68b6b-4c7a-466f-8320-14560cb6a24e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;appContainer&quot;]/nav[@class=&quot;AppNavbar_navContainer__Pghbj&quot;]/div[@class=&quot;AppNavbar_navbar___zLKe&quot;]/a[@class=&quot;normalisedLink&quot;]/span[@class=&quot;AppNavbar_navItem___QI5L&quot;]</value>
+      <webElementGuid>1a2fa700-50d0-479a-9adc-fda64df14eca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/nav/div[2]/a[2]/span</value>
+      <webElementGuid>dbb2bffe-2020-4bd4-9d8a-0de3cf44b868</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::span[1]</value>
+      <webElementGuid>211d07c2-2bec-46f8-bb7a-565aea83f8de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Movies'])[1]/preceding::span[1]</value>
+      <webElementGuid>4eaff6a0-4d0a-497f-bb8c-36bf65862c7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comedy'])[1]/preceding::span[2]</value>
+      <webElementGuid>2f930f6a-e4ff-4269-84b5-a69006ae983e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Web Series']/parent::*</value>
+      <webElementGuid>6fa67c42-988e-403e-8f34-9b649a6e9319</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>d92a4f3e-8499-4647-b17c-62f7f898aac0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Web Series' or . = 'Web Series')]</value>
+      <webElementGuid>9221b720-cde8-4630-9f76-77bf9482e4e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

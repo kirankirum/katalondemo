@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Dominos PizzaRestaurant</name>
+   <tag></tag>
+   <elementGuidId>626ee506-b16d-44d1-b12a-276ebe69aa72</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button._37IIF._1rZ-i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>eb344495-4d48-4e3a-946f-391f47735804</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_37IIF _1rZ-i</value>
+      <webElementGuid>bd85f715-5b38-4877-b015-6f7424a378c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>autosuggest-item</value>
+      <webElementGuid>f0751447-53ce-4076-9b3e-7b168283de6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Domino's PizzaRestaurant</value>
+      <webElementGuid>55bb7e38-7d86-4168-a59f-edcad83619b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;_3arMG&quot;]/div[@class=&quot;nDVxx&quot;]/div[@class=&quot;_2NSqs&quot;]/div[@class=&quot;_3X3Bt&quot;]/div[@class=&quot;_1VxLu&quot;]/button[@class=&quot;_37IIF _1rZ-i&quot;]</value>
+      <webElementGuid>c21b9774-41bf-41c0-9349-fb4d2555fa88</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/button[2]</value>
+      <webElementGuid>d95a4a10-f577-4b0c-892c-ec4d3ab6de41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dish'])[1]/following::button[1]</value>
+      <webElementGuid>e4a3047a-b056-4a65-87ba-53cb843df00d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pizza'])[1]/following::button[1]</value>
+      <webElementGuid>0ff6bf6a-302c-40cc-8e9c-44a2a3485cd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>6f7401ed-f40b-436c-9228-b07ff26beed0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = concat(&quot;Domino&quot; , &quot;'&quot; , &quot;s PizzaRestaurant&quot;) or . = concat(&quot;Domino&quot; , &quot;'&quot; , &quot;s PizzaRestaurant&quot;))]</value>
+      <webElementGuid>7dd35269-f504-465e-85d1-2ade81a71a62</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

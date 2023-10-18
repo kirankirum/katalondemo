@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_I want to provide feedback</name>
+   <tag></tag>
+   <elementGuidId>057f371d-dbc0-45c9-a547-5516f74c41d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[3]/div[2]/div/div[2]/div/div[2]/div[3]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1a07bcdf-1d73-4338-adcb-7c2134b738a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>O1vpu</value>
+      <webElementGuid>185946e2-d820-4be8-a2ac-7f144366ceef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I want to provide feedback</value>
+      <webElementGuid>5c6d1db2-4e2d-4470-bfb3-23ce3a6fe8e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;_3arMG&quot;]/div[@class=&quot;nDVxx&quot;]/div[@class=&quot;_1w2w1&quot;]/div[@class=&quot;_3tDvm&quot;]/div[@class=&quot;_2QhOV _3glSS&quot;]/div[@class=&quot;_3R9IF&quot;]/div[@class=&quot;-zxNr&quot;]/div[1]/div[2]/div[@class=&quot;_3rl8Q&quot;]/button[@class=&quot;O1vpu&quot;]</value>
+      <webElementGuid>3aca8fbb-7a6e-41fb-b743-6f90a69b9ae6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[3]/div[2]/div/div[2]/div/div[2]/div[3]/button</value>
+      <webElementGuid>cfe40e7f-a573-4e49-ba61-4a9a991f7298</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I want to explore career opportunities with Swiggy'])[1]/following::button[1]</value>
+      <webElementGuid>310d2cb1-3e29-492e-b9ee-8da99d2dd7c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What is Swiggy Customer Care Number?'])[1]/following::button[2]</value>
+      <webElementGuid>4c26d183-9c81-408d-ac83-440cdba68813</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Can I edit my order?'])[1]/preceding::button[1]</value>
+      <webElementGuid>1f61f02b-c572-432b-8331-7ae8bc2c400d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>0f2e61e1-250c-45ef-9981-ada5c6d76c48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'I want to provide feedback' or . = 'I want to provide feedback')]</value>
+      <webElementGuid>f5e65069-e04c-41c6-8446-4327bbbf80ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

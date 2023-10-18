@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Total 415.00Add Item</name>
+   <tag></tag>
+   <elementGuidId>96c7dd4c-ec7a-498b-9d76-633594ea76cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-placeholder']/div/div/div[2]/div/div[3]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div._3coNr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d32c42fb-14e2-422f-807d-dd36d4d18abb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_3coNr</value>
+      <webElementGuid>551ff9eb-7d1e-4b7c-a3f7-7b696647c1fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Total 415.00Add Item</value>
+      <webElementGuid>afb3cebb-d962-4d94-93d8-2fbe37de9fa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-placeholder&quot;)/div[1]/div[1]/div[@class=&quot;_1Kr-y _3EeZR&quot;]/div[@class=&quot;_26cJ9&quot;]/div[@class=&quot;_1ZFmK _1IhT0&quot;]/div[@class=&quot;_3coNr&quot;]</value>
+      <webElementGuid>d3603433-c021-4385-b19d-650da576a690</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-placeholder']/div/div/div[2]/div/div[3]/div[3]</value>
+      <webElementGuid>6b07fdb6-35ee-4d46-a2ef-7170170ddda7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customize “Caramel White Chocochip Cake”'])[1]/following::div[26]</value>
+      <webElementGuid>9a41d656-a582-49ee-b016-8f04d3d1c39a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]</value>
+      <webElementGuid>d9e9f2d3-b0e7-43b1-8544-0c010fd90403</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Total 415.00Add Item' or . = 'Total 415.00Add Item')]</value>
+      <webElementGuid>7beab7da-8577-48c6-b276-dabf29854acd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

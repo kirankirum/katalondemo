@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_SEND AN EMAIL</name>
+   <tag></tag>
+   <elementGuidId>15a37133-10de-4396-a14a-b55d335fd9c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[3]/div[2]/div/div[2]/div/div[2]/div[3]/div/div/button/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a._1vMNs</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>56e31eeb-9e71-4e6d-b5f7-d297b953736d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_1vMNs</value>
+      <webElementGuid>a04e49a3-50e3-462b-b3b5-c49780ef387a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>mailto:support@swiggy.in?subject=I want to provide feedback</value>
+      <webElementGuid>63c75ce0-0eba-4ec0-8572-0f789d03a2a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SEND AN EMAIL</value>
+      <webElementGuid>5a3c6617-e8ab-4d62-a4d0-c56f1ac94cda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;_3arMG&quot;]/div[@class=&quot;nDVxx&quot;]/div[@class=&quot;_1w2w1&quot;]/div[@class=&quot;_3tDvm&quot;]/div[@class=&quot;_2QhOV _3glSS&quot;]/div[@class=&quot;_3R9IF&quot;]/div[@class=&quot;-zxNr&quot;]/div[1]/div[2]/div[@class=&quot;_3rl8Q&quot;]/div[1]/div[@class=&quot;GM_Lh&quot;]/button[@class=&quot;_2aDLa&quot;]/a[@class=&quot;_1vMNs&quot;]</value>
+      <webElementGuid>9cc1f16a-beb6-43f8-aec2-b25e877f069c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[3]/div[2]/div/div[2]/div/div[2]/div[3]/div/div/button/a</value>
+      <webElementGuid>6d0e7b27-1e8b-43eb-929b-3c58890dc95f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'SEND AN EMAIL')]</value>
+      <webElementGuid>b72274dd-bbc9-47e8-95dd-3d5b1a230217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I want to provide feedback'])[1]/following::a[1]</value>
+      <webElementGuid>2c10d578-a5e3-47cb-aab1-9d9b80dee571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I want to explore career opportunities with Swiggy'])[1]/following::a[1]</value>
+      <webElementGuid>a7cf6eff-29cb-46b7-a972-c71fb2c789ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='We will revert within 24-48 hrs'])[1]/preceding::a[1]</value>
+      <webElementGuid>cb6023e8-0715-4a21-96ae-927615d35eda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Can I edit my order?'])[1]/preceding::a[1]</value>
+      <webElementGuid>691b3bc5-c051-41f2-ae9a-532715470b03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SEND AN EMAIL']/parent::*</value>
+      <webElementGuid>5208bd4f-8a76-4325-8c02-13813e9db15d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'mailto:support@swiggy.in?subject=I want to provide feedback')]</value>
+      <webElementGuid>00738336-9639-4441-acf1-13660ba56fe2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/a</value>
+      <webElementGuid>4437d68a-4c94-4f58-85d6-3dffc2e2611f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'mailto:support@swiggy.in?subject=I want to provide feedback' and (text() = 'SEND AN EMAIL' or . = 'SEND AN EMAIL')]</value>
+      <webElementGuid>0aee868c-771a-4b7c-bd41-507fa3e546f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

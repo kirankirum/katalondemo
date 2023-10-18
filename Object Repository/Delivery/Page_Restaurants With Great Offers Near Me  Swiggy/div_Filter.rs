@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Filter</name>
+   <tag></tag>
+   <elementGuidId>efbdad5c-871e-4d26-b31d-6e78caa8abe4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container-grid-filter-sort']/div/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-beySbM.iMSxfr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>080b5f52-102b-40e5-b6d1-b0aa8406ec18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-beySbM iMSxfr</value>
+      <webElementGuid>c771a4a0-e33b-458c-b25f-4860cc5d5efc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Filter</value>
+      <webElementGuid>d817ea62-05f0-4efd-a262-465a17368331</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;seo-core-layout&quot;)/div[@class=&quot;nearMe__StyledWrapper-sc-eiffh8-0 biXCce&quot;]/div[@id=&quot;container-grid-filter-sort&quot;]/div[1]/div[@class=&quot;RefineWidget__RefineWidgetPlaceholder-sc-tnge6n-0 kxYTvS&quot;]/div[@class=&quot;RefineWidget__RefineWidgetWrapper-sc-tnge6n-2 hcMwvY&quot;]/div[@class=&quot;RefineWidget__RefineChip-sc-tnge6n-4 GEqPW&quot;]/div[@class=&quot;RefineWidget__StyledButtonChip-sc-tnge6n-5 ctszTg&quot;]/div[@class=&quot;sc-beySbM iMSxfr&quot;]</value>
+      <webElementGuid>b7e13b56-4f34-4fab-8389-9fa55172dcc8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container-grid-filter-sort']/div/div/div/div/div/div</value>
+      <webElementGuid>a055a75d-d41b-4809-882f-cc421f599f81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Restaurants With Great Offers Near Me'])[1]/following::div[9]</value>
+      <webElementGuid>2ecce1e4-dc89-4735-9d9f-e3f963f30148</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Offers'])[1]/following::div[12]</value>
+      <webElementGuid>86f85abb-09ac-43b1-ba52-685d95471ed2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort By'])[1]/preceding::div[2]</value>
+      <webElementGuid>f56dcb6a-a1bf-4083-b570-2d338eb3fbc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fast Delivery'])[1]/preceding::div[6]</value>
+      <webElementGuid>3d2df6fd-b044-492c-be75-312e3b3db19d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Filter']/parent::*</value>
+      <webElementGuid>cd943759-2fe9-4a8c-b620-9837259abefc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div/div</value>
+      <webElementGuid>8a854d82-4b82-4167-be5e-f57e050367b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Filter' or . = 'Filter')]</value>
+      <webElementGuid>9b0e6299-7392-4409-b037-fb8b2f1785dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

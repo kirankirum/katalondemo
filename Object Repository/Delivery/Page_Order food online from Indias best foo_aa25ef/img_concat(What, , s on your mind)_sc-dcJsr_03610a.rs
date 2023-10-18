@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_concat(What, , s on your mind)_sc-dcJsr_03610a</name>
+   <tag></tag>
+   <elementGuidId>88f06cbd-c272-4076-b362-af0bcc59ec7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='seo-core-layout']/div[2]/div/div/div[2]/div/div[2]/div/div/div/a/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.sc-dcJsrY.kMlaev</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>31388ae3-1103-4e2a-a26a-aeaf36002cf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-dcJsrY kMlaev</value>
+      <webElementGuid>fe3dce3e-03e6-48d6-b764-e25bbc32df96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/v1674029858/PC_Creative%20refresh/3D_bau/banners_new/Rolls.png</value>
+      <webElementGuid>9f25ad73-51ac-4a2a-a462-54966debe8f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>144</value>
+      <webElementGuid>8d0705bf-ca9f-4a21-8d89-841c9798633e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>180</value>
+      <webElementGuid>08c969a8-b6a0-410e-9388-d1b1f16967db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>restaurants curated for roll</value>
+      <webElementGuid>91a95f80-bc56-4873-a41d-ea8579b269ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;seo-core-layout&quot;)/div[@class=&quot;sc-eONNys sc-feoqov iJlSWa gDHRJe&quot;]/div[1]/div[@class=&quot;sc-bfhvDw jhVsdF&quot;]/div[2]/div[@class=&quot;sc-tagGq gPYgts&quot;]/div[@class=&quot;sc-esYiGF eKfEvH&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;sc-fjvvzt gbASux&quot;]/div[1]/a[@class=&quot;sc-eifrsQ kNMLNz&quot;]/div[@class=&quot;sc-kgOKUu kUkbhj&quot;]/img[@class=&quot;sc-dcJsrY kMlaev&quot;]</value>
+      <webElementGuid>6239328e-477a-40a1-b9b9-c84b366bcced</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='seo-core-layout']/div[2]/div/div/div[2]/div/div[2]/div/div/div/a/div/img</value>
+      <webElementGuid>97df4c7d-ed11-4119-93f9-9ab4e3d1ce3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='restaurants curated for roll']</value>
+      <webElementGuid>0fecb9c6-0917-471e-92c4-30b51bb89321</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div/a/div/img</value>
+      <webElementGuid>0d2a6c45-66cf-4c74-8997-096d9b7a3895</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/v1674029858/PC_Creative%20refresh/3D_bau/banners_new/Rolls.png' and @alt = 'restaurants curated for roll']</value>
+      <webElementGuid>41fda3ef-71c2-41d4-913b-ddb941151c65</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

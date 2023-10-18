@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_I want to partner my restaurant with Swiggy</name>
+   <tag></tag>
+   <elementGuidId>53a2d3c4-2e36-4870-9aa5-d4a0314f41ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[3]/div[2]/div/div[2]/div/div[2]/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.L1QZ_</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a46a110e-9020-4a29-9005-88bdc8e2be52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>L1QZ_</value>
+      <webElementGuid>45dcdfec-eae3-4118-885d-086d94dc4ba4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I want to partner my restaurant with Swiggy</value>
+      <webElementGuid>8a860cbc-47e6-4467-b270-b26f489cc959</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;_3arMG&quot;]/div[@class=&quot;nDVxx&quot;]/div[@class=&quot;_1w2w1&quot;]/div[@class=&quot;_3tDvm&quot;]/div[@class=&quot;_2QhOV _3glSS&quot;]/div[@class=&quot;_3R9IF&quot;]/div[@class=&quot;-zxNr&quot;]/div[1]/div[2]/div[@class=&quot;_3rl8Q&quot;]/button[@class=&quot;O1vpu&quot;]/span[@class=&quot;L1QZ_&quot;]</value>
+      <webElementGuid>1179a11e-b085-4e61-95d6-9119d6390df4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[3]/div[2]/div/div[2]/div/div[2]/div/button/span</value>
+      <webElementGuid>7d1114cf-b654-4c47-9bec-5e198f075ebf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQs'])[1]/following::span[1]</value>
+      <webElementGuid>0992673c-dc8f-4a34-8135-23b9fd0024ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What are the mandatory documents needed to list my restaurant on Swiggy?'])[1]/preceding::span[2]</value>
+      <webElementGuid>0329d492-ba7d-4040-b6f1-486083527bae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='After I submit all documents, how long will it take for my restaurant to go live on Swiggy?'])[1]/preceding::span[4]</value>
+      <webElementGuid>29bf9cfa-9978-4f8e-8517-4c67b706498d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='I want to partner my restaurant with Swiggy']/parent::*</value>
+      <webElementGuid>b8fa0d1e-cdc8-4697-9057-2ab2106e4dc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>b2e2a354-b501-4774-b9f2-4dea5441fc1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'I want to partner my restaurant with Swiggy' or . = 'I want to partner my restaurant with Swiggy')]</value>
+      <webElementGuid>8bdd2dd3-770d-49c2-900c-fb33b2a72ffd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

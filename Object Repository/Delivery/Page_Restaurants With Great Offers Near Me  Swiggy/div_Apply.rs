@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Apply</name>
+   <tag></tag>
+   <elementGuidId>39344bfc-4a5c-4923-9c73-8b3f37e20921</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear Filters'])[1]/following::div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.HalfCardContent__TextWrapper-sc-1fqxg13-2.ciUDOd</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>68a4dd6c-0ae6-4b1c-a7b3-4d1694ae7ebc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>HalfCardContent__TextWrapper-sc-1fqxg13-2 ciUDOd</value>
+      <webElementGuid>21f27f67-f149-438f-819b-55a076117f78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Apply</value>
+      <webElementGuid>b0d973ad-8c7a-4b0a-9546-0452bbf9f05f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[3]/div[1]/div[@class=&quot;BottomSheet__Container-sc-np8ee4-0 eWqEPw dwebBottomSheet&quot;]/div[@class=&quot;HalfCardContent__ContentFooter-sc-1fqxg13-6 gzCPEc&quot;]/div[@class=&quot;sc-guDLRT iyOaqo&quot;]/button[@class=&quot;sc-dmyDGi flleCF HalfCardContent__StyledButton-sc-1fqxg13-1 dPZuto&quot;]/span[@class=&quot;sc-beySbM cUGbqd&quot;]/div[@class=&quot;HalfCardContent__TextWrapper-sc-1fqxg13-2 ciUDOd&quot;]</value>
+      <webElementGuid>e4b4dcfb-2939-4c08-b4ec-58b9e8080d08</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear Filters'])[1]/following::div[2]</value>
+      <webElementGuid>4b51a662-ab38-4a11-8b84-104f95f4f413</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cost: High to Low'])[1]/following::div[4]</value>
+      <webElementGuid>471a292a-7ca6-4edb-bd50-9e4e18014627</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Apply']/parent::*</value>
+      <webElementGuid>bceb0f9f-b0ce-4372-9fcd-95a1ebc08054</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span/div</value>
+      <webElementGuid>af3c8127-14e0-4cb2-89fb-f7b4d183db4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Apply' or . = ' Apply')]</value>
+      <webElementGuid>e2518088-10c6-4b60-9e0e-0ff4778762a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

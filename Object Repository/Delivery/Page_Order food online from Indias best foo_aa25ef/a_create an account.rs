@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_create an account</name>
+   <tag></tag>
+   <elementGuidId>3a32788a-188f-4595-b293-b50086da710c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='overlay-sidebar-root']/div/div/div[2]/div/div/div/div/div[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a._3p4qh</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e82f33ad-6f48-4405-84d5-fa0ab66ccaca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_3p4qh</value>
+      <webElementGuid>55142404-c5eb-4157-b961-c6946f32f7be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>create an account</value>
+      <webElementGuid>5202eef4-526c-42e8-87fd-20a7dcf6e81f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;overlay-sidebar-root&quot;)/div[1]/div[1]/div[@class=&quot;_3vi_e&quot;]/div[@class=&quot;_12S7_&quot;]/div[1]/div[1]/div[@class=&quot;_3pYe-&quot;]/div[@class=&quot;_2r91t&quot;]/a[@class=&quot;_3p4qh&quot;]</value>
+      <webElementGuid>077a663f-620a-47a7-89bf-ee4eadb7c0d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='overlay-sidebar-root']/div/div/div[2]/div/div/div/div/div[3]/a</value>
+      <webElementGuid>1b8b9aa0-8ae8-4270-abd9-3c65fd6ea7c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'create an account')]</value>
+      <webElementGuid>18391ad8-e3f6-4d63-9acb-8ae536bde144</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::a[1]</value>
+      <webElementGuid>a7cd11de-0f94-4724-897e-ac03ce5d7136</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone number'])[1]/preceding::a[1]</value>
+      <webElementGuid>f1452853-2ef6-44ae-a095-503ca0261dfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/preceding::a[1]</value>
+      <webElementGuid>1292ce0c-7d25-402d-b179-e77c9ab6c9da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='create an account']/parent::*</value>
+      <webElementGuid>dbc849e6-c9ff-4b6f-a035-7c905c82c979</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[3]/a</value>
+      <webElementGuid>19e69f10-a210-44ac-8879-ba32ddd483c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'create an account' or . = 'create an account')]</value>
+      <webElementGuid>4fca36f8-d183-4e35-8958-6ef23f4e6556</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
